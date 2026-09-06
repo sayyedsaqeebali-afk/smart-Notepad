@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Notepad paper shadow/depth -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M29,25 h46 c3.3,0 6,2.7 6,6 v50 c0,3.3 -2.7,6 -6,6 h-46 c-3.3,0 -6,-2.7 -6,-6 v-50 c0,-3.3 2.7,-6 6,-6 z" />
+
+    <!-- Notepad paper base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,24 h46 c3.3,0 6,2.7 6,6 v50 c0,3.3 -2.7,6 -6,6 h-46 c-3.3,0 -6,-2.7 -6,-6 v-50 c0,-3.3 2.7,-6 6,-6 z" />
+
+    <!-- Header bar / binding on the notepad -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M28,24 h46 c3.3,0 6,2.7 6,6 v6 h-58 v-6 c0,-3.3 2.7,-6 6,-6 z" />
+
+    <!-- Ruled lines -->
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M34,42 h30 c0.8,0 1.5,0.7 1.5,1.5 s-0.7,1.5 -1.5,1.5 h-30 c-0.8,0 -1.5,-0.7 -1.5,-1.5 s0.7,-1.5 1.5,-1.5 z" />
+
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M34,50 h40 c0.8,0 1.5,0.7 1.5,1.5 s-0.7,1.5 -1.5,1.5 h-40 c-0.8,0 -1.5,-0.7 -1.5,-1.5 s0.7,-1.5 1.5,-1.5 z" />
+
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M34,58 h28 c0.8,0 1.5,0.7 1.5,1.5 s-0.7,1.5 -1.5,1.5 h-28 c-0.8,0 -1.5,-0.7 -1.5,-1.5 s0.7,-1.5 1.5,-1.5 z" />
+
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M34,66 h38 c0.8,0 1.5,0.7 1.5,1.5 s-0.7,1.5 -1.5,1.5 h-38 c-0.8,0 -1.5,-0.7 -1.5,-1.5 s0.7,-1.5 1.5,-1.5 z" />
+
+    <!-- Smart pencil badge on bottom-right -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M66,60 l14,-14 c1.2,-1.2 3.1,-1.2 4.2,0 l2.8,2.8 c1.2,1.2 1.2,3.1 0,4.2 l-14,14 z" />
+
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M66,60 l3,3 l14,-14 l-3,-3 z" />
+
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M66,60 l-2,7 l7,-2 z" />
+
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M64,67 l-0.5,1.8 l1.8,-0.5 z" />
+</vector>

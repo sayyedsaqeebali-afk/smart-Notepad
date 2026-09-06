@@ -1,0 +1,6 @@
+{
+  "name": "Smart Notepad",
+  "description": "Production-ready Smart Notepad Android app featuring Room database offline storage, search, pin, favorite, character/word counters, and clean Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
